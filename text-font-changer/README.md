@@ -1,5 +1,7 @@
 # Text+ Font Changer
 
+**Download:** [github.com/augustagerskov/Davinci-goodies](https://github.com/augustagerskov/Davinci-goodies)
+
 Skifter skrifttype på alle Text+ klip i den aktuelle DaVinci Resolve timeline via en GUI-dialog. Kører som Lua-script direkte fra Resolve's script-menu.
 
 ## Installation
